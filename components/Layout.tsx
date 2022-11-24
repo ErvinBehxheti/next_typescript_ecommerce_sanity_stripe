@@ -10,7 +10,7 @@ const Layout: NextPage<TChildrenProps> = ({ children }) => {
   return (
     <div className="layout">
       <Head>
-        <title>|Digital Love</title>
+        <title>Digital Love</title>
       </Head>
       <header>
         <Navbar />
