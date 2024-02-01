@@ -5,7 +5,7 @@ import { AiFillInstagram, AiOutlineTwitter} from 'react-icons/ai';
 const Footer: NextPage = () => {
   return (
     <div className="footer-container">
-      <p>2022 Bardyli Shopping</p>
+      <p>2022 Novagency Shopping</p>
       <p className="icons">
         <AiFillInstagram />
         <AiOutlineTwitter />
